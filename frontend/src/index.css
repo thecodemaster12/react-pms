@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.main-menu {
+    @apply flex items-center gap-4;
+}
